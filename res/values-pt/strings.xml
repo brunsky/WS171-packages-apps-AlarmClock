@@ -35,7 +35,7 @@
     <string name="alarm_alert_snooze_text">"Colocar em modo de espera"</string>
     <string name="alarm_alert_snooze_set">"Em espera por <xliff:g id="MINUTES">%d</xliff:g> minutos."</string>
     <string name="alarm_alert_snooze_not_set">"Modo de espera não definido. Próximo alarme definido para <xliff:g id="TIME">%s</xliff:g>"</string>
-    <string name="alarm_set">"Este alarme está definido para <xliff:g id="TIME_DELTA">%s</xliff:g> a partir de agora."</string>
+    <string name="alarm_set">"Este alarme está definido para daqui a  <xliff:g id="TIME_DELTA">%s</xliff:g>."</string>
     <string name="combiner">"<xliff:g id="XXX_0">%1$s</xliff:g><xliff:g id="XXX_1">%2$s</xliff:g><xliff:g id="XXX_2">%3$s</xliff:g><xliff:g id="XXX_3">%4$s</xliff:g><xliff:g id="XXX_4">%5$s</xliff:g>"</string>
     <string name="day">"1 dia"</string>
     <string name="days">"<xliff:g id="DAYS">%s</xliff:g> dias"</string>
@@ -74,6 +74,6 @@
     <item>"Dom"</item>
   </string-array>
     <string name="settings">"Configurações"</string>
-    <string name="alarm_in_silent_mode_title">"O alarme está no modo silencioso"</string>
+    <string name="alarm_in_silent_mode_title">"Alarme no modo silencioso"</string>
     <string name="alarm_in_silent_mode_summary">"Tocar o alarme mesmo quando o telefone estiver no modo silencioso"</string>
 </resources>

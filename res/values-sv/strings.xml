@@ -48,7 +48,7 @@
     <string name="minutes">"<xliff:g id="MINUTES">%s</xliff:g> minuter"</string>
     <string name="am">"FM"</string>
     <string name="pm">"EM"</string>
-    <string name="every_day">"varje dag"</string>
+    <string name="every_day">"Varje dag"</string>
     <string name="never">"Aldrig"</string>
     <string name="day_concat">", "</string>
     <string name="clock_instructions">"Välj vilken klocka du vill visa."</string>
