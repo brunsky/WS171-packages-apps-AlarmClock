@@ -48,7 +48,7 @@
     <string name="minutes">"<xliff:g id="MINUTES">%s</xliff:g> minutter"</string>
     <string name="am">"am"</string>
     <string name="pm">"pm"</string>
-    <string name="every_day">"hver dag"</string>
+    <string name="every_day">"Hver dag"</string>
     <string name="never">"Aldrig"</string>
     <string name="day_concat">", "</string>
     <string name="clock_instructions">"Vælg et ur, der skal vises."</string>
@@ -65,13 +65,13 @@
     <item>"Søndag"</item>
   </string-array>
   <string-array name="days_of_week_short">
-    <item>"Man."</item>
-    <item>"Tir."</item>
-    <item>"Ons."</item>
-    <item>"Tor."</item>
-    <item>"Fre."</item>
-    <item>"Lør."</item>
-    <item>"Søn."</item>
+    <item>"man."</item>
+    <item>"tir."</item>
+    <item>"ons."</item>
+    <item>"tor."</item>
+    <item>"fre."</item>
+    <item>"lør."</item>
+    <item>"søn."</item>
   </string-array>
     <string name="settings">"Indstillinger"</string>
     <string name="alarm_in_silent_mode_title">"Alarm er i lydløs tilstand"</string>

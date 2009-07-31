@@ -75,5 +75,5 @@
   </string-array>
     <string name="settings">"Ρυθμίσεις"</string>
     <string name="alarm_in_silent_mode_title">"Ξυπνητήρι σε αθόρυβη λειτουργία"</string>
-    <string name="alarm_in_silent_mode_summary">"Αναπαραγωγή ήχου ξυπνητηριού ακόμα και όταν το τηλέφωνο βρίσκεται σε αθόρυβη λειτουργία"</string>
+    <string name="alarm_in_silent_mode_summary">"Αναπ/γή ήχου ξυπνητ.ακόμα και όταν το τηλ.βρίσκ.σε αθόρ.λειτ."</string>
 </resources>

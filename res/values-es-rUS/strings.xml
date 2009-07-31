@@ -74,6 +74,6 @@
     <item>"Dom."</item>
   </string-array>
     <string name="settings">"Configuración"</string>
-    <string name="alarm_in_silent_mode_title">"La alarma está en modo silencioso."</string>
+    <string name="alarm_in_silent_mode_title">"Alarma en modo silencioso"</string>
     <string name="alarm_in_silent_mode_summary">"Reproducir alarma cuando el teléfono está en modo silencioso"</string>
 </resources>

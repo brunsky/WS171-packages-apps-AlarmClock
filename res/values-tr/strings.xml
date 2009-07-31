@@ -32,9 +32,9 @@
     <string name="alert_title">"Alarm"</string>
     <string name="alarm_alert_dismiss_text">"Kapat"</string>
     <string name="alarm_alert_alert_silenced">"<xliff:g id="MINUTES">%d</xliff:g> dakika sonra alarm susturuldu"</string>
-    <string name="alarm_alert_snooze_text">"Duraklat"</string>
-    <string name="alarm_alert_snooze_set">"<xliff:g id="MINUTES">%d</xliff:g> dakika duraklatılıyor."</string>
-    <string name="alarm_alert_snooze_not_set">"Duraklama ayarlanmadı -- sonraki alarm <xliff:g id="TIME">%s</xliff:g> olarak ayarlandı"</string>
+    <string name="alarm_alert_snooze_text">"Ertele"</string>
+    <string name="alarm_alert_snooze_set">"<xliff:g id="MINUTES">%d</xliff:g> dakika erteleniyor."</string>
+    <string name="alarm_alert_snooze_not_set">"Erteleme ayarlanamadı. Sonraki alarm <xliff:g id="TIME">%s</xliff:g> olarak ayarlandı"</string>
     <string name="alarm_set">"Bu alarmın çalmasına şu andan itibaren <xliff:g id="TIME_DELTA">%s</xliff:g> var."</string>
     <string name="combiner">"<xliff:g id="XXX_0">%1$s</xliff:g><xliff:g id="XXX_1">%2$s</xliff:g><xliff:g id="XXX_2">%3$s</xliff:g><xliff:g id="XXX_3">%4$s</xliff:g><xliff:g id="XXX_4">%5$s</xliff:g>"</string>
     <string name="day">"1 gün"</string>
@@ -74,6 +74,6 @@
     <item>"Paz"</item>
   </string-array>
     <string name="settings">"Ayarlar"</string>
-    <string name="alarm_in_silent_mode_title">"Alarm sessiz modda"</string>
+    <string name="alarm_in_silent_mode_title">"Sessiz modda alarm çal"</string>
     <string name="alarm_in_silent_mode_summary">"Telefon sessiz moddayken bile alarm çal"</string>
 </resources>
