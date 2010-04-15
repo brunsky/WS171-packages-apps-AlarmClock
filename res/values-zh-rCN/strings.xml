@@ -75,5 +75,5 @@
   </string-array>
     <string name="settings">"设置"</string>
     <string name="alarm_in_silent_mode_title">"在静音模式下提醒"</string>
-    <string name="alarm_in_silent_mode_summary">"当手机处于静音模式时，同样进行提醒"</string>
+    <string name="alarm_in_silent_mode_summary">"静音模式时，闹钟仍会响"</string>
 </resources>

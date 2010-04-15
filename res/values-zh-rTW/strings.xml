@@ -75,5 +75,5 @@
   </string-array>
     <string name="settings">"設定"</string>
     <string name="alarm_in_silent_mode_title">"靜音模式下的鬧鐘"</string>
-    <string name="alarm_in_silent_mode_summary">"手機處於靜音模式時，鬧鐘仍會響"</string>
+    <string name="alarm_in_silent_mode_summary">"靜音模式時，鬧鐘仍會響"</string>
 </resources>

@@ -269,7 +269,7 @@ public class Alarms {
         public static final int ALARM_DAYS_OF_WEEK_INDEX = 3;
         public static final int ALARM_TIME_INDEX = 4;
         public static final int ALARM_ENABLED_INDEX = 5;
-        public static final int ALARM_VIBRATE_INDEX = 6;
+        public static final int ALARM_VIBRATE_INDEX = 6;  
         public static final int ALARM_MESSAGE_INDEX = 7;
         public static final int ALARM_ALERT_INDEX = 8;
     }
@@ -348,7 +348,10 @@ public class Alarms {
                 int minutes = cur.getInt(AlarmColumns.ALARM_MINUTES_INDEX);
                 int daysOfWeek = cur.getInt(AlarmColumns.ALARM_DAYS_OF_WEEK_INDEX);
                 boolean enabled = cur.getInt(AlarmColumns.ALARM_ENABLED_INDEX) == 1 ? true : false;
-                boolean vibrate = cur.getInt(AlarmColumns.ALARM_VIBRATE_INDEX) == 1 ? true : false;
+                //GILL MARKED
+                //boolean vibrate = cur.getInt(AlarmColumns.ALARM_VIBRATE_INDEX) == 1 ? true : false;
+                boolean vibrate = false;
+
                 String message = cur.getString(AlarmColumns.ALARM_MESSAGE_INDEX);
                 String alert = cur.getString(AlarmColumns.ALARM_ALERT_INDEX);
                 alarmSettings.reportAlarm(
@@ -407,6 +410,9 @@ public class Alarms {
         values.put(AlarmColumns.MINUTES, minutes);
         values.put(AlarmColumns.ALARM_TIME, time);
         values.put(AlarmColumns.DAYS_OF_WEEK, daysOfWeek.getCoded());
+        //GILL ADD
+        vibrate = false;
+        
         values.put(AlarmColumns.VIBRATE, vibrate);
         values.put(AlarmColumns.MESSAGE, message);
         values.put(AlarmColumns.ALERT, alert);

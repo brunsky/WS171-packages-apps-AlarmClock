@@ -26,8 +26,6 @@
         android:ringtoneType="alarm"
         android:showDefault="false"
         android:showSilent="false" />
-    <CheckBoxPreference android:key="vibrate" 
-        android:title="@string/alarm_vibrate"/>
     <com.android.alarmclock.RepeatPreference
         android:key="setRepeat" 
         android:title="@string/alarm_repeat"

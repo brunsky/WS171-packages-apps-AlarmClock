@@ -75,5 +75,5 @@
   </string-array>
     <string name="settings">"Einstellungen"</string>
     <string name="alarm_in_silent_mode_title">"Alarm im Lautlosmodus"</string>
-    <string name="alarm_in_silent_mode_summary">"Alarm auch im Lautlosmodus auslösen"</string>
+    <string name="alarm_in_silent_mode_summary">"Spielen Weckzeiten auch das Gerät als stumm geschaltet"</string>
 </resources>

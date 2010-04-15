@@ -75,5 +75,5 @@
   </string-array>
     <string name="settings">"Configuración"</string>
     <string name="alarm_in_silent_mode_title">"Alarma en modo silencio"</string>
-    <string name="alarm_in_silent_mode_summary">"Reproducir alarma aunque el teléfono esté en modo silencio"</string>
+    <string name="alarm_in_silent_mode_summary">"Escuchar incluso de alarma del dispositivo establecido como el modo silencioso"</string>
 </resources>
